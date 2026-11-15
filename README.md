@@ -1,6 +1,6 @@
 # Karthikeyan Subramaniam
 
-**Data Engineer at iCustomer**
+**Data Engineer**
 
 I design reliable data workflows that transform fragmented business information into structured, high-quality datasets. My work spans data ingestion, enrichment, validation, standardization, and automation.
 
